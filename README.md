@@ -1,13 +1,13 @@
 # An Analysis of Kickstarter Campaigns with Excel
 Performing analysis on kickstarters data to uncover trends
 
-### Overview of Project: An Analysis Of Campaign Outcomes Based on Launch Dates and Funding Goals for Theater Projects.
+#### Overview of Project: An Analysis Of Campaign Outcomes Based on Launch Dates and Funding Goals for Theater Projects.
 
-### Purpose: Perform an analysis of campaign outcomes in order to provide insight for greater successful outcomes. 
+#### Purpose: Perform an analysis of campaign outcomes in order to provide insight for greater successful outcomes. 
 
-### Analysis and Challenges: Data analysis indicating the success and failure based on dates and goals. Challenges: Creating meaningful graphs that show the relationship between success and failure rates.
+#### Analysis and Challenges: Data analysis indicating the success and failure based on dates and goals. Challenges: Creating meaningful graphs that show the relationship between success and failure rates.
 
-### Results
+#### Results
 - Two conclusions are made about the Theater Outcomes based on Launch Date:
 Both the success and failure rate corresponds to the chosen launch dates. Spring and summer months indicate a greater success rate with peak success in the month of May.
 
