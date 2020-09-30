@@ -13,7 +13,7 @@ Both the success and failure rate corresponds to the chosen launch dates. Spring
 
 ![alt text](resources/Outcomes_vs_Goals.png)
 
-![alt text](resources/Theater_Outcomes_vs_Launch.png)
+![alt text](resources/Theater_Outomes_vs_Launch.png)
 
 - One conclusion is made about the Outcomes based on Goals:
 The percentage of successful versus the percentage of failed do not correspond to the funding goals.
