@@ -11,6 +11,10 @@ Performing analysis on kickstarters data to uncover trends
 - Two conclusions are made about the Theater Outcomes based on Launch Date:
 Both the success and failure rate corresponds to the chosen launch dates. Spring and summer months indicate a greater success rate with peak success in the month of May.
 
+![alt text](resources/Outcomes_vs_goals.png)
+
+![alt text](resources/Theater_Outcomes_vs_Launch.png)
+
 - One conclusion is made about the Outcomes based on Goals:
 The percentage of successful versus the percentage of failed do not correspond to the funding goals.
 
